@@ -17,9 +17,18 @@
 I'm a **third-year undergraduate at the Indian Institute of Technology Madras**, pursuing a B.Tech in Metallurgical and Materials Engineering (Class of 2028), with a strong focus on **software development and machine learning**. I enjoy taking a problem from raw data to a working product — cleaning and modelling the data, building the pipeline, and shipping it behind a usable interface or API.
 
 - 🎓 **Currently** — Third-year B.Tech student, Metallurgical and Materials Engineering, IIT Madras (2024 – 2028)
+- 💼 **Interning** — Product Manager Intern at [Ofline](https://ofline.in), an AI-driven marketplace for shops incubated at IIT Madras Research Park (Sep – Dec 2026)
 - 🏅 **JEE Main 2024** — Top 2.4% of 1.4M+ candidates  ·  **JEE Advanced 2024** — Top 10% of 180K+ candidates
 - 🧠 **Focus areas** — Machine Learning, NLP, Recommender Systems, Data Structures & Algorithms
 - 🤝 **Leadership** — Former Manager, Editorial & Research at E-Cell IIT Madras  ·  Former Finance Coordinator at Saarang
+
+---
+
+## Experience
+
+| Role | Organisation | Period | Highlights |
+|:--|:--|:--|:--|
+| **Product Manager Intern** | [Ofline](https://ofline.in) · Incubated at IIT Madras Research Park | Sep 2026 – Dec 2026 | Building an AI-driven marketplace for shops: product planning and feature prioritisation, customer, merchant and market research, PRDs and user stories, and working with design and engineering to test features and track product metrics. |
 
 ---
 
