@@ -89,23 +89,6 @@ I'm a **third-year undergraduate at the Indian Institute of Technology Madras**,
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahitya186&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahitya186&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahitya186&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=rahitya186&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
-</p>
-
----
-
 ## Let's Connect
 
 <p align="center">
